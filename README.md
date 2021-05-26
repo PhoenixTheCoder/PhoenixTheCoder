@@ -13,6 +13,9 @@
 # Projects I have recently worked on
 
 [Midi Player JS Rewritten](https://github.com/PhoenixTheCoder/midiplayerjs)
+
 [MPP Midi Player](https://github.com/PhoenixTheCoder/mpp-midi-player)
+
 [MPP Fishing Bot](https://github.com/PhoenixTheCoder/fishing-app) - Originally made by [Brandon Lockaby](https://github.com/brandon-lockaby)
+
 [Squid Proxy](https://github.com/PhoenixTheCoder/spi)
