@@ -2,7 +2,7 @@
 
 # About me
 
-- I am usually on this site [Multiplayer Piano](https://www.multiplayerpiano.net/). You will probably see me in "lobby" or "NMPB (Room)".
+- I am sometimes on this site [Multiplayer Piano](https://www.multiplayerpiano.net/). You will probably see me in [lobby](https://www.multiplayerpiano.net/#lobby) or [test/fishing](https://www.multiplayerpiano.net/#test/fishing).
 
 - I am also on this site 24/7 [Multiplayer Piano Clone](https://mppclone.com/). I am always in the room [✧𝓓𝓔𝓥 𝓡𝓸𝓸𝓶✧](https://mppclone.com/%E2%9C%A7%F0%9D%93%93%F0%9D%93%94%F0%9D%93%A5%20%F0%9D%93%A1%F0%9D%93%B8%F0%9D%93%B8%F0%9D%93%B6%E2%9C%A7).
 
@@ -12,12 +12,16 @@
 
 - I am currently working on [Neptune v6](https://github.com/PhoenixTheCoder/neptune).
 
-# Projects I have recently worked on
+# Projects that I am working on
 
-[Midi Player JS Rewritten](https://github.com/PhoenixTheCoder/midiplayerjs)
+[Neptune v6](https://github.com/PhoenixTheCoder/neptune).
 
-[MPP Midi Player](https://github.com/PhoenixTheCoder/mpp-midi-player)
+[MPP Skin Packs](https://github.com/PhoenixTheCoder/mpp-scripts).
 
-[MPP Fishing Bot](https://github.com/PhoenixTheCoder/fishing-app) - Originally made by [Brandon Lockaby](https://github.com/brandon-lockaby)
+# Projects I have finished
 
-[Squid Proxy](https://github.com/PhoenixTheCoder/spi)
+[Node JS NMPB](https://github.com/PhoenixTheCoder/official-nmpb-js).
+
+[Midi Player JS Fixed](https://github.com/PhoenixTheCoder/midiplayerjs).
+
+[Squid Proxy](https://github.com/PhoenixTheCoder/spi).
