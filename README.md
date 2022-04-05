@@ -1,4 +1,6 @@
-[![Phoenix](https://img.shields.io/badge/Phoenix's-Multiplayer%20Piano-blue)](https://www.multiplayerpiano.net)
+[![PhoenixTheCoder - phoenixthecoder.github.io](https://img.shields.io/static/v1?label=PhoenixTheCoder&message=phoenixthecoder.github.io&color=red&logo=github)](https://github.com/PhoenixTheCoder/phoenixthecoder.github.io "Go to GitHub repo")
+[![stars - phoenixthecoder.github.io](https://img.shields.io/github/stars/PhoenixTheCoder/phoenixthecoder.github.io?style=social)](https://github.com/PhoenixTheCoder/phoenixthecoder.github.io)
+[![forks - phoenixthecoder.github.io](https://img.shields.io/github/forks/PhoenixTheCoder/phoenixthecoder.github.io?style=social)](https://github.com/PhoenixTheCoder/phoenixthecoder.github.io)
 
 # About me
 
