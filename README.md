@@ -15,4 +15,4 @@
 
 [![PhoenixTheCoder's Github Stats](https://github-readme-stats.vercel.app/api?username=PhoenixTheCoder)](https://phoenixthecoder.github.io)
 
-[![Metrics](https://metrics.lecoq.io/PhoenixTheCoder?template=classic)]
+[Metrics](https://metrics.lecoq.io/PhoenixTheCoder?template=classic)
