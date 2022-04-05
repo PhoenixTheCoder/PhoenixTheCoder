@@ -14,3 +14,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixTheCoder&hide=none)](https://phoenixthecoder.github.io)
 
 [![PhoenixTheCoder's Github Stats](https://github-readme-stats.vercel.app/api?username=PhoenixTheCoder)](https://phoenixthecoder.github.io)
+
+[![Metrics](https://metrics.lecoq.io/PhoenixTheCoder?template=classic)
