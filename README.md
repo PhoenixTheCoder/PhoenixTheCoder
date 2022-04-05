@@ -2,26 +2,15 @@
 
 # About me
 
-- I am sometimes on this site [Multiplayer Piano](https://www.multiplayerpiano.net/). You will probably see me in [lobby](https://www.multiplayerpiano.net/#lobby) or [test/fishing](https://www.multiplayerpiano.net/#test/fishing).
+### Heya!
+- I'm Phoenix/Foonix! You probably know me from [Multiplayer Piano](https://multiplayerpiano.com) or [MPPClone](https://mppclone.com) or from VRChat. I'm primarily focused on learning C# at the moment and hope to learn as much as I can. My primary programming languages are JavaScript, CSS, HTML, Python and LUA. I own a clone of [MPPClone](https://mppclone.com) here: [Multiplayer Piano](https://multiplayerpiano.dev). You can also find my youtube channel here [Phoenix/Foonix](https://www.youtube.com/channel/UCJUWY89BC9bb1KIfz-73XAw). 
 
-- I am also on this site 24/7 [Multiplayer Piano Clone](https://mppclone.com/). I am always in the room [✧𝓓𝓔𝓥 𝓡𝓸𝓸𝓶✧](https://mppclone.com/%E2%9C%A7%F0%9D%93%93%F0%9D%93%94%F0%9D%93%A5%20%F0%9D%93%A1%F0%9D%93%B8%F0%9D%93%B8%F0%9D%93%B6%E2%9C%A7).
+- I am working on a new Multiplayer Piano project
+- No, do not ask me to update Neptune. It's private for now
+- I fixed NMPB made by Ste-Art ( Works on [MPPClone](https://mppclone.com) )
+- I made my own Multiplayer Piano - [Multiplayer Piano](https://multiplayerpiano.dev)
+- I made a bot called Neptune for [MPPClone](https://mppclone.com)
 
-- I like programming in JavaScript, CSS, HTML, Python, LUA.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixTheCoder&hide=none)](https://phoenixthecoder.github.io)
 
-- My latest project is [Neptune v6](https://github.com/PhoenixTheCoder/neptune).
-
-- I am currently working on [Neptune v6](https://github.com/PhoenixTheCoder/neptune).
-
-# Projects that I am working on
-
-[Neptune v6](https://github.com/PhoenixTheCoder/neptune).
-
-[MPP Skin Packs](https://github.com/PhoenixTheCoder/mpp-scripts).
-
-# Projects I have finished
-
-[Node JS NMPB](https://github.com/PhoenixTheCoder/official-nmpb-js).
-
-[Midi Player JS Fixed](https://github.com/PhoenixTheCoder/midiplayerjs).
-
-[Squid Proxy](https://github.com/PhoenixTheCoder/spi).
+[![PhoenixTheCoder's Github Stats](https://github-readme-stats.vercel.app/api?username=PhoenixTheCoder)](https://phoenixthecoder.github.io)
